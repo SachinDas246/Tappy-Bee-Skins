@@ -2,6 +2,8 @@
 
 This repository provides textures that can be used to modify the appearance of the Android game **Tappy Bee**.
 
+![main texture](./original/custom_texture.png)
+
 ## How to Use Custom Textures
 
 To use a custom texture in **Tappy Bee**, follow these steps:
@@ -53,3 +55,14 @@ If you've created an interesting skin and want to share it with others:
 
 We appreciate contributions and creative skins from the community! 🎨🐝
 
+## Textures
+
+### 1.Orginal Texture
+
+![main texture](./original/custom_texture.png)
+
+### 2.Old Texture
+![main texture](./old/custom_texture.png)
+
+### 3.Flappy Bird
+![main texture](./fb/custom_texture.png)
